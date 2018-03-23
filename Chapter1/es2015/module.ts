@@ -1,0 +1,1 @@
+export let SomeConstruct = 5;

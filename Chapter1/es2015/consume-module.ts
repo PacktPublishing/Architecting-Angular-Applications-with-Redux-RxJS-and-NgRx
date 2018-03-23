@@ -1,0 +1,1 @@
+import { SomeConstruct } from './module';

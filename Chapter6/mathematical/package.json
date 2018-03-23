@@ -1,0 +1,17 @@
+{
+  "name": "mathematical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "max.js",
+  "scripts": {
+    "start:max": "node max.js",
+    "start:min": "node min.js",
+    "start:sum": "node sum.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.7"
+  }
+}

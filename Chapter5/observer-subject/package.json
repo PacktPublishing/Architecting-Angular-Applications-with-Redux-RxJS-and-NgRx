@@ -1,0 +1,17 @@
+{
+  "name": "observer-subject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "",
+    "start": "tsc && node dist/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.6",
+    "typescript": "^2.7.2"
+  }
+}

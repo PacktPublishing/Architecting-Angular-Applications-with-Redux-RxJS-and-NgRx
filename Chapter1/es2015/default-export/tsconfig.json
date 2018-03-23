@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outDir": "dist",
+    "module": "commonjs"
+  },
+  "files": ["default-export-consumer", "default-export.ts"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book-actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demo.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

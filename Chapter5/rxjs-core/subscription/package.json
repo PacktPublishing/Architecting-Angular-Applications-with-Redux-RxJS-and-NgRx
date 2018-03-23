@@ -1,0 +1,15 @@
+{
+  "name": "rxjs-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+    "typescript": "^2.7.2"
+  }
+}

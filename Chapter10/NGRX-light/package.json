@@ -1,0 +1,21 @@
+{
+  "name": "ngrx-light",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start:store": "node storeIII.js",
+    "start:store-reducing": "node storeIV.js",
+    "start:store-reducing-scan": "node storeV.js",
+    "start:store-with-reducers": "node storeVI.js",
+    "start:store-with-select": "node storeVII.js",
+    "start:store-with-effect": "node storeVIII.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  }
+}

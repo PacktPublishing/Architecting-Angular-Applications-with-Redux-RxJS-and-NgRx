@@ -1,0 +1,17 @@
+{
+  "name": "creation-operators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "from.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:from" : "node from.js",
+    "start:of" : "node of.js",
+    "start:range" : "node range.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.7"
+  }
+}

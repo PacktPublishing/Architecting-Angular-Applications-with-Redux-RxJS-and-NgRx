@@ -1,0 +1,8 @@
+<div>
+  <input type="text" [(ngModel)]="newItem">
+  <button (click)="add()">Add</button>
+</div>
+<div *ngFor="let item of list$ | async">
+  {{item.title}}
+  <button (click)="remove(item.id)">Remove</button>
+</div>

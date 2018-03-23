@@ -1,0 +1,16 @@
+{
+  "name": "cascading",
+  "version": "1.0.0",
+  "main": "cascading-promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cascading-promises.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.11.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}

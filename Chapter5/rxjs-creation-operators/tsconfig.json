@@ -1,0 +1,9 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "watch": false,
+    "module": "commonjs",
+    "outDir": "dist"
+  },
+  "files": ["bind-callback.ts"]
+}

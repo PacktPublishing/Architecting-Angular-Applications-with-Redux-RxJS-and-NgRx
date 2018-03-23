@@ -1,0 +1,18 @@
+{
+  "name": "core-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jedilist-reducer.js",
+  "scripts": {
+    "start:reducer": "node jedilist-reducer.js",
+    "start:select-reducer": "node selectjedi-reducer.js",
+    "start:list" : "node list.js",
+    "start:list-remove" : "node list-remove.js",
+    "start:object-change" : "node object.js",
+    "start:object-add" : "node object-add.js",
+    "start:merged-reducers" : "node merged-reducers.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

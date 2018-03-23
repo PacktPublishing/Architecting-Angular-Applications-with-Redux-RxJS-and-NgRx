@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "outDir": "dist"
+  },
+  "files": [
+    "product.model.ts",
+    "product.ui.ts",
+    "app.ts",
+    "subject.ts",
+    "observer.ts"
+  ]
+}

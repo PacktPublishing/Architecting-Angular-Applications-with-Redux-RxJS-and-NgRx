@@ -1,0 +1,16 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debounceTime.js",
+  "scripts": {
+    "start:delay": "node delay.js",
+    "start:interval": "node interval-take.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.7"
+  }
+}

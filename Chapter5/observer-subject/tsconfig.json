@@ -1,0 +1,8 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "dist"
+  },
+  "files": ["subject.ts", "observer.ts", "app.ts"]
+}

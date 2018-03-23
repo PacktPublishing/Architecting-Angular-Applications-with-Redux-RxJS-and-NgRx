@@ -1,0 +1,17 @@
+{
+  "name": "combination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "combineLatest.js",
+  "scripts": {
+    "start:merge" : "node merge.js",
+    "start:concat" : "node concat.js",
+    "start:combineLatest" : "node combineLatest.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.7"
+  }
+}

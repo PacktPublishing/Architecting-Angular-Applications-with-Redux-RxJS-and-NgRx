@@ -1,0 +1,21 @@
+{
+  "name": "subjects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:subject": "node subject.js",
+    "start:cascading": "http-server -p 5000",
+    "start:behavior-subject": "http-server -p 5000",
+    "start:replay-subject": "node replay-subject.js",
+    "start:replay-subject-window": "node replay-subject-window-size.js",
+    "start:async-subject": "node async-subject.js",
+    "start:async-subject-complete": "node async-subject-complete.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.7"
+  }
+}

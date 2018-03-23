@@ -1,0 +1,15 @@
+{
+  "name": "debounce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debounceTime.js",
+  "scripts": {
+    "start":"webpack -d && http-server -p 5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.7"
+  }
+}

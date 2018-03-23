@@ -1,0 +1,17 @@
+{
+  "name": "principles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node store.js",
+    "start:first-reducer": "node first-reducer-demo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}

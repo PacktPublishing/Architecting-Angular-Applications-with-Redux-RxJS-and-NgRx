@@ -1,0 +1,17 @@
+{
+  "name": "error-handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "error-catch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:error-catch" : "node error-catch.js",
+    "start:error-merge-catch" : "node error-merge-catch.js",
+    "start:error-ignore" : "node error-ignore.js",
+    "start:error-retry" : "node error-retry.js",
+    "start:error-retry-advanced" : "node error-retry-advanced.js",
+    "start:error-retry-advanced-fail" : "node error-retry-advanced-fail.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

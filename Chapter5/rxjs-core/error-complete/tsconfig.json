@@ -1,0 +1,9 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "outDir": "dist"
+  },
+  "files": ["Observable.ts", "Observer.ts"]
+}
